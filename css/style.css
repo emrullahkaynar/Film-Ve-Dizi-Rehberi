@@ -1,0 +1,32 @@
+/*
+class -> .text-red {}
+ID -> #textred {}
+*/
+body {
+    text-align: center;
+}
+
+h1,h2,h3,h4 {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+p{
+    font-size: 18px;
+}
+
+li {
+    color: rgb(85, 9, 9);
+    font-style:italic;
+}
+
+.bg-color {
+background-color: antiquewhite;
+}
+
+.fs-25px {
+    font-size: 25px;
+}
